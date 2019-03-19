@@ -1,4 +1,0 @@
-#4C5454 - Grey
-#FF715B - Orange
-#FFFFFF - White
-#1EA896 - Teal
